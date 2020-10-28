@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
-site.title: null
+title: [test]
 github:
    is_project_page: false
