@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 name: nnqkld's site
 title: null
+github:
+   is_project_page: false
